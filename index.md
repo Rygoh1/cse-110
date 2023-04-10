@@ -1,7 +1,7 @@
 # Intro
 
-** Ryan Goh **
-** UCSD Computer Engineering
+**Ryan Goh**
+*UCSD Computer Engineering*
 
 
 
